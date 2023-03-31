@@ -1,4 +1,4 @@
-directed
+undirected
 p q 1
 p s 6
 p t 7
